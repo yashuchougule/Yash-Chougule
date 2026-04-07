@@ -13,8 +13,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/yash-chougule09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-chougule09" height="30" width="40" /></a>
-<a href="mailto:yashchougule9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" width="70" /></a>
+<a href="https://linkedin.com/in/yash-chougule09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-chougule09" height="30" width="40" /></a>
+<a href="mailto:yashchougule9@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" width="70" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
